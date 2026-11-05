@@ -24,7 +24,6 @@ Cursor AI · MCP · A2A · Docker · n8n
 ## 📌 소개
 
 **AI Study Group**은 최신 AI 도구의 개념을 익히고, **Docker와 n8n으로 실제 동작하는 자동화 워크플로우를 만들어 보는** 스터디입니다.
-개념 학습에서 끝내지 않고 매주 직접 실습하며 결과물을 남겼고, 모든 학습 내용은 [Wiki](https://github.com/tacoya03/AI-Study_Group/wiki)에 정리되어 있습니다.
 
 ---
 
